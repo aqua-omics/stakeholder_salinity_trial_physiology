@@ -1,3 +1,7 @@
+
+#Authors: David J. Bradshaw
+#Emails: dbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+
 #Extract out all information associated with a particular GO name 
 elongases <- filter(Full_GO, name_1006=="fatty acid elongase activity")
 

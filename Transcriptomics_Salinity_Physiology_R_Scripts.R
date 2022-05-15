@@ -1,3 +1,6 @@
+#Authors: David J. Bradshaw
+#Emails: dbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+
 #Importing information into R was done using the following tximport vignette
 #http://bioconductor.org/packages/release/bioc/vignettes/tximport/inst/doc/tximport.html
 
